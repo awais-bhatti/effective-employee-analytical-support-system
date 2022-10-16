@@ -1,0 +1,73 @@
+Name,Number,Age,Branch,Role,Job Type,Gender,Month,Education,quality of work,dependability,analytical ability,leadership,administrative ability,performance,social life balance,Building Trust,Continous Improvement,Teamwork,Commitment,Achievement Orientation,Confidence
+Faiz,0349-2674312,25,Gulshan,Sr. Developer,Hybrid,Male,January,Bachelors,32,41,50,25,40,18,49,26,19,26,36,39,37
+Suhira,0349-2363448,24,PECHS,Jr. Developer,Onsite,Female,January,Bachelors,42,17,48,23,41,16,25,28,19,25,34,35,49
+Ali,0349-2674314,35,Shahrah Faisal,CEO,Hybrid,Male,January,Masters,30,26,38,32,19,34,27,31,43,21,50,42,24
+Asif,0349-3639336,19,Shahrah Faisal,Intern,Onsite,Female,January,Bachelors,22,44,24,44,50,39,33,40,48,23,27,33,17
+Zainab,0349-5453577,21,PECHS,Intern,Onsite,Female,January,Bachelors,42,28,40,31,15,46,49,48,50,37,30,48,16
+Komail,0349-2672722,22,Gulshan,Jr. Developer,Hybrid,Male,January,Bachelors,37,20,19,42,48,20,30,22,21,19,29,49,24
+Liza,0349-2674318,31,PECHS,Sr. Developer,Remote,Female,January,Masters,38,17,34,40,16,19,38,21,50,44,48,41,20
+Abeer,0349-2674319,27,Shahrah Faisal,Team Lead,Onsite,Female,January,Masters,21,35,29,25,44,44,23,39,17,35,18,43,36
+Zohaib,0349-3917553,22,Gulshan,Jr. Developer,Remote,Male,January,Bachelors,15,25,48,17,38,31,32,26,24,35,31,28,31
+Asad,0349-2548692,33,Shahrah Faisal,CFO,Hybrid,Female,January,Masters,48,35,17,47,18,31,29,23,39,39,50,21,41
+Mouzma,0349-0346971,29,PECHS,Sr. Developer,Hybrid,Female,January,Bachelors,29,42,45,23,16,28,18,25,25,45,33,16,30
+Hira,0349-2413542,23,Shahrah Faisal,Manager,Remote,Female,January,Masters,22,34,45,16,25,50,25,27,49,46,29,45,48
+Mubashir,0349-2721355,20,Gulshan,Sales Manager,Remote,Male,January,Masters,36,16,21,48,27,46,35,16,45,24,35,49,42
+Fatima,0347-8956130,28,Shahrah Faisal,Sr. Developer,Hybrid,Female,January,Bachelors,40,20,43,34,50,40,37,25,30,22,28,22,20
+zuhra,0321-6713265,28,Gulshan,Sr. Developer,Onsite,Female,January,Bachelors,28,23,17,50,17,21,18,41,48,27,23,32,50
+Jasmeen,0349-3245451,26,PECHS,Sr. Developer,Remote,Female,January,Masters,25,50,18,43,27,20,30,50,35,27,39,21,19
+Hassan,0344-5451547,33,Shahrah Faisal,Sr. Developer,Hybrid,Male,January,Bachelors,15,47,32,43,36,21,30,24,50,34,44,34,19
+Majeed,0321-1245411,25,PECHS,Jr. Developer,Remote,Male,January,Bachelors,35,42,28,23,33,45,48,19,41,33,37,46,44
+Feroze,0315-5151211,32,Gulshan,Sr. Developer,Onsite,Male,January,Masters,32,17,46,40,23,42,16,43,40,25,46,50,48
+Hadiqa,0316-5412124,22,PECHS,Jr. Developer,Onsite,Female,January,Bachelors,38,16,32,20,36,21,17,19,16,33,43,47,29
+Filza,0311-5413123,22,Shahrah Faisal,Jr. Developer,Onsite,Female,January,Bachelors,32,46,16,32,40,21,30,47,26,30,31,26,16
+Shahmeer,0314-5431254,28,Gulshan,Sr. Developer,Remote,Male,January,Bachelors,31,43,18,26,39,16,18,50,21,21,46,32,45
+Talha,0311-5457842,21,Gulshan,Intern,Onsite,Male,January,Masters,49,50,47,47,48,24,25,22,21,33,15,35,41
+Sohail,0315-45434642,28,PECHS,Sr. Developer,Onsite,Male,January,Bachelors,39,48,24,24,48,39,46,42,38,26,43,40,41
+Faiz,0349-2674312,25,Gulshan,Sr. Developer,Hybrid,Male,May,Bachelors,38,37,42,40,43,35,47,47,41,25,28,38,36
+Suhira,0349-2363448,24,PECHS,Jr. Developer,Onsite,Female,May,Bachelors,34,41,48,46,19,50,41,38,16,38,33,34,31
+Ali,0349-2674314,35,Shahrah Faisal,CEO,Hybrid,Male,May,Masters,30,49,32,43,17,23,25,16,46,50,44,32,29
+Asif,0349-3639336,19,Shahrah Faisal,Intern,Onsite,Female,May,Bachelors,18,39,40,22,50,16,17,31,19,30,32,45,33
+Zainab,0349-5453577,21,PECHS,Intern,Onsite,Female,May,Bachelors,24,22,22,50,34,21,48,22,48,37,49,28,21
+Komail,0349-2672722,22,Gulshan,Jr. Developer,Hybrid,Male,May,Bachelors,29,45,38,23,19,23,34,15,15,44,24,26,42
+Liza,0349-2674318,31,PECHS,Sr. Developer,Remote,Female,May,Masters,39,27,50,47,42,29,46,41,20,25,22,31,46
+Abeer,0349-2674319,27,Shahrah Faisal,Team Lead,Onsite,Female,May,Masters,26,49,46,41,44,22,40,20,24,31,25,44,21
+Zohaib,0349-3917553,22,Gulshan,Jr. Developer,Remote,Male,May,Bachelors,21,19,39,49,26,42,30,25,15,50,28,25,45
+Asad,0349-2548692,33,Shahrah Faisal,CFO,Hybrid,Female,May,Masters,35,50,45,50,25,19,42,47,16,50,39,41,41
+Mouzma,0349-0346971,29,PECHS,Sr. Developer,Hybrid,Female,May,Bachelors,44,38,23,37,46,43,29,47,20,18,33,17,28
+Hira,0349-2413542,23,Shahrah Faisal,Manager,Remote,Female,May,Masters,28,26,35,37,36,29,40,17,21,34,40,22,32
+Mubashir,0349-2721355,20,Gulshan,Sales Manager,Remote,Male,May,Masters,33,21,48,21,17,43,43,27,47,22,16,40,18
+Fatima,0347-8956130,28,Shahrah Faisal,Sr. Developer,Hybrid,Female,May,Bachelors,27,37,38,48,19,33,23,34,42,29,29,20,18
+zuhra,0321-6713265,28,Gulshan,Sr. Developer,Onsite,Female,May,Bachelors,30,40,47,26,24,41,41,28,34,42,17,33,16
+Jasmeen,0349-3245451,26,PECHS,Sr. Developer,Remote,Female,May,Masters,38,38,32,45,47,25,47,50,28,26,48,23,23
+Hassan,0344-5451547,33,Shahrah Faisal,Sr. Developer,Hybrid,Male,May,Bachelors,26,36,21,19,22,41,24,15,29,15,23,49,50
+Majeed,0321-1245411,25,PECHS,Jr. Developer,Remote,Male,May,Bachelors,19,25,33,48,33,36,45,19,28,42,36,40,32
+Feroze,0315-5151211,32,Gulshan,Sr. Developer,Onsite,Male,May,Masters,50,35,21,34,16,16,15,26,23,47,32,26,44
+Hadiqa,0316-5412124,22,PECHS,Jr. Developer,Onsite,Female,May,Bachelors,33,31,22,25,34,15,16,41,33,22,28,31,35
+Filza,0311-5413123,22,Shahrah Faisal,Jr. Developer,Onsite,Female,May,Bachelors,42,28,32,42,42,23,16,49,26,44,35,50,17
+Shahmeer,0314-5431254,28,Gulshan,Sr. Developer,Remote,Male,May,Bachelors,46,27,49,27,47,39,15,45,48,34,36,29,19
+Talha,0311-5457842,21,Gulshan,Intern,Onsite,Male,May,Masters,49,50,44,38,15,18,35,22,50,24,32,20,22
+Sohail,0315-45434642,28,PECHS,Sr. Developer,Onsite,Male,May,Bachelors,39,17,35,40,25,33,15,37,17,30,18,39,22
+Faiz,0349-2674312,25,Gulshan,Sr. Developer,Hybrid,Male,September,Bachelors,43,37,47,35,31,35,40,17,21,27,38,29,46
+Suhira,0349-2363448,24,PECHS,Jr. Developer,Onsite,Female,September,Bachelors,18,40,48,37,31,50,43,44,36,42,29,38,22
+Ali,0349-2674314,35,Shahrah Faisal,CEO,Hybrid,Male,September,Masters,44,47,42,38,21,37,44,32,21,35,19,31,23
+Asif,0349-3639336,19,Shahrah Faisal,Intern,Onsite,Female,September,Bachelors,41,50,23,47,42,26,49,20,20,19,21,40,19
+Zainab,0349-5453577,21,PECHS,Intern,Onsite,Female,September,Bachelors,39,30,15,26,45,18,23,29,37,39,31,30,34
+Komail,0349-2672722,22,Gulshan,Jr. Developer,Hybrid,Male,September,Bachelors,28,46,26,38,50,49,29,44,22,24,35,17,24
+Liza,0349-2674318,31,PECHS,Sr. Developer,Remote,Female,September,Masters,39,37,19,17,19,26,30,36,43,18,50,19,28
+Abeer,0349-2674319,27,Shahrah Faisal,Team Lead,Onsite,Female,September,Masters,32,34,20,35,48,47,41,41,30,40,31,34,32
+Zohaib,0349-3917553,22,Gulshan,Jr. Developer,Remote,Male,September,Bachelors,18,48,31,30,36,21,20,37,37,44,25,35,40
+Asad,0349-2548692,33,Shahrah Faisal,CFO,Hybrid,Female,September,Masters,19,16,18,29,41,31,27,44,19,41,42,46,28
+Mouzma,0349-0346971,29,PECHS,Sr. Developer,Hybrid,Female,September,Bachelors,40,32,31,41,42,45,30,32,50,39,30,38,50
+Hira,0349-2413542,23,Shahrah Faisal,Manager,Remote,Female,September,Masters,37,24,25,33,42,45,21,15,33,21,46,33,25
+Mubashir,0349-2721355,20,Gulshan,Sales Manager,Remote,Male,September,Masters,28,30,30,17,37,49,41,30,17,44,44,28,36
+Fatima,0347-8956130,28,Shahrah Faisal,Sr. Developer,Hybrid,Female,September,Bachelors,16,46,50,33,22,34,50,37,20,48,23,39,40
+zuhra,0321-6713265,28,Gulshan,Sr. Developer,Onsite,Female,September,Bachelors,48,25,44,25,23,45,49,28,28,48,24,24,46
+Jasmeen,0349-3245451,26,PECHS,Sr. Developer,Remote,Female,September,Masters,26,39,23,34,32,24,26,30,27,26,32,17,45
+Hassan,0344-5451547,33,Shahrah Faisal,Sr. Developer,Hybrid,Male,September,Bachelors,37,45,15,49,17,19,27,26,50,32,33,28,41
+Majeed,0321-1245411,25,PECHS,Jr. Developer,Remote,Male,September,Bachelors,18,20,36,32,40,26,47,30,21,35,40,34,17
+Feroze,0315-5151211,32,Gulshan,Sr. Developer,Onsite,Male,September,Masters,31,47,27,16,40,20,27,21,36,36,25,17,46
+Hadiqa,0316-5412124,22,PECHS,Jr. Developer,Onsite,Female,September,Bachelors,17,15,23,20,23,46,18,38,48,31,50,32,30
+Filza,0311-5413123,22,Shahrah Faisal,Jr. Developer,Onsite,Female,September,Bachelors,28,35,41,46,41,24,28,48,37,37,42,30,35
+Shahmeer,0314-5431254,28,Gulshan,Sr. Developer,Remote,Male,September,Bachelors,45,22,43,50,41,17,45,19,21,43,49,50,29
+Talha,0311-5457842,21,Gulshan,Intern,Onsite,Male,September,Masters,21,19,41,37,42,32,44,36,25,44,16,25,16
+Sohail,0315-45434642,28,PECHS,Sr. Developer,Onsite,Male,September,Bachelors,44,37,38,50,36,42,48,26,31,28,18,24,19
